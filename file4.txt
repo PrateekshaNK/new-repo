@@ -1,4 +1,4 @@
-
+final content
 file4 content 
 changed again feature1 branch
 
